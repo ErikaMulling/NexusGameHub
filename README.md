@@ -11,6 +11,7 @@ O **NexusGameHub** é uma plataforma interativa de mini jogos desenvolvida com:
 
 A proposta do projeto é transformar conceitos fundamentais de programação em experiências visuais, dinâmicas e divertidas diretamente no 
 navegador, sem necessidade de recarregar páginas.
+
 A plataforma reúne três jogos clássicos:
 
 - ✊✋✌️ Jokenpô
