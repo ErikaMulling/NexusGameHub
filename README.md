@@ -2,6 +2,8 @@
 
 Projeto desenvolvido no **Curso Técnico em Informática - Colégio ULBRA São Lucas**, com foco na prática de lógica de programação, manipulação do DOM e desenvolvimento Front-End moderno utilizando JavaScript puro.
 
+#
+
 **Sobre o Projeto:**
 
 O **NexusGameHub** é uma plataforma interativa de mini jogos desenvolvida com:
@@ -86,6 +88,7 @@ Teste sua sorte escolhendo entre cara ou coroa.
 - Código modularizado e organizado
 - Experiência visual interativa
 
+#
 
 **Durante o desenvolvimento deste projeto foram praticados:**
 * Lógica de programação
@@ -97,6 +100,7 @@ Teste sua sorte escolhendo entre cara ou coroa.
 * Experiência do usuário (UX)
 * Modularização de aplicações web
 
+#
 
 **Tecnologias Utilizadas:**
 
@@ -108,6 +112,7 @@ Teste sua sorte escolhendo entre cara ou coroa.
 | LocalStorage   | Persistência de dados        |
 | Canvas API     | Efeitos visuais animados     |
 
+#
 
 **Estrutura do Projeto:**
 ```bash id="nexus1"
@@ -133,6 +138,7 @@ NexusGameHub/
 │
 └── README.md
 ```
+
 #
 
 **Destaques do Projeto:**
@@ -143,6 +149,7 @@ NexusGameHub/
 * Persistência de estatísticas
 * Organização profissional de código
 
+#
 
 **Projeto desenvolvido por:**
 - [Lucas Hartmann](https://github.com/2009Lucas)
