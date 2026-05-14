@@ -1,8 +1,8 @@
-🎮 NexusGameHub | Plataforma de Mini Jogos
+**🎮 NexusGameHub | Plataforma de Mini Jogos**
 
 Projeto desenvolvido no **Curso Técnico em Informática - Colégio ULBRA São Lucas**, com foco na prática de lógica de programação, manipulação do DOM e desenvolvimento Front-End moderno utilizando JavaScript puro.
 
-# Sobre o Projeto
+**Sobre o Projeto:**
 O **NexusGameHub** é uma plataforma interativa de mini jogos desenvolvida com:
 * HTML5
 * CSS3
@@ -20,18 +20,18 @@ A plataforma reúne três jogos clássicos:
 # Jogos Disponíveis:
 
 
-## ✊✋✌️ Jokenpô:
+**✊✋✌️ Jokenpô:**
 
 O clássico Pedra, Papel ou Tesoura contra a CPU.
 
-### Funcionalidades:
+**Funcionalidades:**
 * Escolha visual entre Pedra, Papel ou Tesoura
 * Jogada automática da IA com `Math.random()`
 * Sistema de vitória, derrota e empate
 * Placar atualizado em tempo real
 * Feedback visual das jogadas
 
-### Conceitos Aplicados:
+**Conceitos Aplicados:**
 * Arrays
 * Condicionais (`if/else`)
 * Funções
@@ -39,10 +39,10 @@ O clássico Pedra, Papel ou Tesoura contra a CPU.
 * Manipulação do DOM
 
 
-## 🎲 Batalha de Dados
+**🎲 Batalha de Dados:**
 Um jogo estilo arcade/cyberpunk onde jogador e CPU disputam lançamentos de dados.
 
-### Funcionalidades:
+**Funcionalidades:**
 * Sistema automático de rolagem de dados
 * Verificação dinâmica do vencedor
 * Histórico de partidas
@@ -50,7 +50,7 @@ Um jogo estilo arcade/cyberpunk onde jogador e CPU disputam lançamentos de dado
 * Interface neon futurista
 * Fundo animado com Canvas API
 
-### Conceitos Aplicados:
+**Conceitos Aplicados:**
 * `Math.random()`
 * Controle de estado
 * Renderização dinâmica
@@ -58,10 +58,10 @@ Um jogo estilo arcade/cyberpunk onde jogador e CPU disputam lançamentos de dado
 * Animações JavaScript
 
 
-## 🪙 Cara ou Coroa
+**🪙 Cara ou Coroa:**
 Teste sua sorte escolhendo entre cara ou coroa.
 
-### Funcionalidades:
+**Funcionalidades:**
 * Animação da moeda
 * Sistema de acertos e erros
 * Sequência de vitórias (streak)
@@ -69,7 +69,7 @@ Teste sua sorte escolhendo entre cara ou coroa.
 * Salvamento de estatísticas com LocalStorage
 * Feedback visual imediato
 
-### Conceitos Aplicados:
+**Conceitos Aplicados:**
 * Manipulação de imagens
 * Eventos
 * Condicionais
@@ -77,14 +77,14 @@ Teste sua sorte escolhendo entre cara ou coroa.
 * LocalStorage
 
 
-# Funcionalidades Gerais:
-✅ Interface moderna e responsiva
-✅ Jogos rápidos e intuitivos
-✅ Atualização dinâmica da interface
-✅ Animações em tempo real
-✅ Compatível com desktop e celular
-✅ Código modularizado e organizado
-✅ Experiência visual interativa
+**Funcionalidades Gerais:**
+- Interface moderna e responsiva
+- Jogos rápidos e intuitivos
+- Atualização dinâmica da interface
+- Animações em tempo real
+- Compatível com desktop e celular
+- Código modularizado e organizado
+- Experiência visual interativa
 
 
 **Durante o desenvolvimento deste projeto foram praticados:**
@@ -98,7 +98,7 @@ Teste sua sorte escolhendo entre cara ou coroa.
 * Modularização de aplicações web
 
 
-# Tecnologias Utilizadas:
+**Tecnologias Utilizadas:**
 
 | Tecnologia     | Função                       |
 | -------------- | ---------------------------- |
@@ -109,7 +109,7 @@ Teste sua sorte escolhendo entre cara ou coroa.
 | Canvas API     | Efeitos visuais animados     |
 
 
-# Estrutura do Projeto:
+**Estrutura do Projeto:**
 ```bash id="nexus1"
 NexusGameHub/
 │
@@ -133,9 +133,9 @@ NexusGameHub/
 │
 └── README.md
 ```
+#
 
-
-# Destaques do Projeto:
+**Destaques do Projeto:**
 * Interface inspirada em jogos arcade
 * Design moderno e responsivo
 * Efeitos visuais e animações
