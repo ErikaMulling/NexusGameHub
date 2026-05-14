@@ -2,8 +2,6 @@
 
 Projeto desenvolvido no **Curso Técnico em Informática - Colégio ULBRA São Lucas**, com foco na prática de lógica de programação, manipulação do DOM e desenvolvimento Front-End moderno utilizando JavaScript puro.
 
----
-
 # Sobre o Projeto
 O **NexusGameHub** é uma plataforma interativa de mini jogos desenvolvida com:
 * HTML5
