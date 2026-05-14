@@ -17,8 +17,9 @@ A plataforma reúne três jogos clássicos:
 * 🪙 Cara ou Coroa
 
 
-# Jogos Disponíveis:
+ **Jogos Disponíveis:**
 
+#
 
 **✊✋✌️ Jokenpô:**
 
