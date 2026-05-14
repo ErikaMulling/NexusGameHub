@@ -13,12 +13,6 @@ A proposta do projeto é transformar conceitos fundamentais de programação em 
 
 A plataforma reúne três jogos clássicos:
 
-* ✊✋✌️ Jokenpô
-* 🎲 Batalha de Dados
-* 🪙 Cara ou Coroa
-
- **Jogos Disponíveis:**
-#
 
 **✊✋✌️ Jokenpô:**
 
