@@ -34,6 +34,7 @@ O clássico Pedra, Papel ou Tesoura contra a CPU.
 
 
 **🎲 Batalha de Dados:**
+
 Um jogo estilo arcade/cyberpunk onde jogador e CPU disputam lançamentos de dados.
 
 **Funcionalidades:**
@@ -53,6 +54,7 @@ Um jogo estilo arcade/cyberpunk onde jogador e CPU disputam lançamentos de dado
 
 
 **🪙 Cara ou Coroa:**
+
 Teste sua sorte escolhendo entre cara ou coroa.
 
 **Funcionalidades:**
