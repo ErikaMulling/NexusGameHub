@@ -13,6 +13,7 @@ A proposta do projeto é transformar conceitos fundamentais de programação em 
 
 A plataforma reúne três jogos clássicos:
 
+#
 
 **✊✋✌️ Jokenpô:**
 
@@ -32,6 +33,7 @@ O clássico Pedra, Papel ou Tesoura contra a CPU.
 * Eventos de clique
 * Manipulação do DOM
 
+#
 
 **🎲 Batalha de Dados:**
 
@@ -52,6 +54,7 @@ Um jogo estilo arcade/cyberpunk onde jogador e CPU disputam lançamentos de dado
 * Canvas API
 * Animações JavaScript
 
+#
 
 **🪙 Cara ou Coroa:**
 
@@ -72,6 +75,7 @@ Teste sua sorte escolhendo entre cara ou coroa.
 * Atualização dinâmica do DOM
 * LocalStorage
 
+#
 
 **Funcionalidades Gerais:**
 - Interface moderna e responsiva
