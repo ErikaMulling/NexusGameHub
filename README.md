@@ -19,6 +19,7 @@ A plataforma reúne três jogos clássicos:
   
 
 **✊✋✌️ Jokenpô**
+
 O clássico Pedra, Papel ou Tesoura contra a CPU.
 
 **Funcionalidades:**
