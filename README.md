@@ -17,9 +17,7 @@ A plataforma reúne três jogos clássicos:
 * 🎲 Batalha de Dados
 * 🪙 Cara ou Coroa
 
-
  **Jogos Disponíveis:**
-
 #
 
 **✊✋✌️ Jokenpô:**
